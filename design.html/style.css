@@ -1,0 +1,61 @@
+
+.bangladesh{
+    font-family: "Fira Sans", serif;
+    font-weight: 400;
+    font-style: normal;
+    
+  }
+
+nav{
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 0 80px;
+}
+.ban{
+font-size: 22px;
+font-weight: bold;
+}
+.sign{
+color: #006A50;
+border: 1px solid #006A50;
+font-size: 16px;
+font-weight: 600px;
+border-radius: 4px;
+}
+
+.ban-banner{
+background-color: #C6E4D6;
+width: 1100px;
+height: 500px;
+display: flex;
+justify-content: center;
+align-items: center;
+margin: 20px auto;
+border-radius: 20px;
+}
+.ban-content{
+padding: 0 60px 0 50px;
+}
+.ban-title{
+font-size: 18px;
+font-weight: 400px;
+color: rgba(14, 14, 14, 0.5);
+}
+.ban-para{
+font-size: 40px;
+font-weight: bold;
+color: #0E0E0E;
+}
+.ban-btn{
+font-size: 9px;
+font-weight: 500px;
+color: #FFFFFF;
+background-color: #006A50;
+border: none;
+padding: 12px 27px;
+border-radius: 5px;
+}
+.ban-pic{
+padding: 60px;
+}
