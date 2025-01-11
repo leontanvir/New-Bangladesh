@@ -56,6 +56,9 @@ border: none;
 padding: 12px 27px;
 border-radius: 5px;
 }
+.ban-btn:hover{
+  background-color: rgb(80, 3, 15);
+}
 .ban-pic{
 padding: 60px;
 }
@@ -162,6 +165,15 @@ padding: 8px;
 font-size: 12px;
 font-weight: 500;
 }
+.btn-1:hover{
+background-color: rgb(174, 146, 109);
+}
+.btn-2:hover{
+  background-color: rgb(174, 146, 109);
+}
+.btn-3:hover{
+  background-color: rgb(174, 146, 109);
+}
 
 /* third-part */
 
@@ -211,6 +223,9 @@ font-weight: 500;
 padding: 8px;
 margin-top: 40px;
 }
+.third-btn:hover{
+  background-color: rgb(174, 146, 109);
+}
 .third-context-2{
   padding: 40px 0 40px 40px;
 }
@@ -239,10 +254,12 @@ flex-direction: flex;
 justify-content: space-around;
 align-items: center;
 gap: 15px;
-
-
-
 }
+.fourth-para:hover{
+  background-color: aquamarine;
+}
+.fourth-para-1:hover{
+  background-color: aquamarine;}
 .fourth-para{
   font-size: 30px;
   font-weight: bold;
@@ -275,6 +292,9 @@ border: 1px solid rgba(14, 14, 14, 0.1);;
 background-color: rgb(0, 106, 80);;
 padding: 15px;
 margin-top: 10px;
+}
+.fourth-btn:hover{
+  background-color: rgb(174, 146, 109);
 }
 
 /* footer */
@@ -325,6 +345,9 @@ border: none;
 padding: 10px;
 border-radius: 4px;
 margin-top: 10px;
+}
+.input-2:hover{
+  background-color: rgb(174, 146, 109);
 }
 .foot-para-2{
   font-size: 12px;
